@@ -1,16 +1,5 @@
-plainwhite:
-  name: Sampo Sihvola
-  portfolio_image: /assets/img/profiili.png
-
-  social_links:
-    github: ssihvola
-
-  navigation:
-    - title: Portfolio
-      url: "/README"
-    - title: About
-      url: "/about"
-
-plugins:
-  - jekyll-remote-theme
-remote_theme: samarsault/plainwhite-jekyll
+title: Sampo Sihvola
+logo: /assets/img/profiili.png
+# description: 
+show_downloads: false
+theme: jekyll-theme-minimal

@@ -1,3 +1,9 @@
+# Portfolio
+
+## Profile
+
+Second-year IT student at Laurea University of Applied Sciences. Past work experience mainly from cultural & restaurant industries. Now looking for work in software testing & QA.
+
 ## 2048 with React, Jest & Cypress
 [Project on GitHub](https://github.com/ssihvola/2048)
 
