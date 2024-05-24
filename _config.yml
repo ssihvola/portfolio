@@ -1,6 +1,7 @@
 title: Sampo Sihvola
-logo: /assets/img/profiili.png
-# description: 
+avatar: /assets/img/profiili.png
+subscribe: false
+skin: sunrise
 show_downloads: false
 plugins:
   - jekyll-remote-theme
