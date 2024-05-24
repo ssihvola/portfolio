@@ -19,9 +19,8 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <br>
         {% endif %}
-
-        <br>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
