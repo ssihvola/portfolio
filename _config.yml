@@ -2,4 +2,6 @@ title: Sampo Sihvola
 logo: /assets/img/profiili.png
 # description: 
 show_downloads: false
-remote-theme: jekyll-theme-hamilton
+plugins:
+  - jekyll-remote-theme
+remote_theme: ngzhio/jekyll-theme-hamilton
