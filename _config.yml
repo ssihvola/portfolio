@@ -4,7 +4,13 @@ plainwhite:
 
   social_links:
     github: ssihvola
-    
+
+  navigation:
+    - title: Portfolio
+    url: "/README"
+    - title: About
+    url: "/about"
+
 plugins:
   - jekyll-remote-theme
 remote_theme: samarsault/plainwhite-jekyll
