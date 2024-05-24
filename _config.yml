@@ -1,8 +1,10 @@
-title: Sampo Sihvola
-avatar: /assets/img/profiili.png
-subscribe: false
-skin: sunrise
-show_downloads: false
+plainwhite:
+  name: Sampo Sihvola
+  portfolio_image: /assets/img/profiili.png
+
+  social_links:
+    github: ssihvola
+    
 plugins:
   - jekyll-remote-theme
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: samarsault/plainwhite-jekyll
