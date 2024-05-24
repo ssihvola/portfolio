@@ -7,9 +7,9 @@ plainwhite:
 
   navigation:
     - title: Portfolio
-    url: "/README"
+      url: "/README"
     - title: About
-    url: "/about"
+      url: "/about"
 
 plugins:
   - jekyll-remote-theme
